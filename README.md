@@ -107,7 +107,9 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [ReadRecs](https://chat.openai.com/g/g-utxuDJYKK-readrecs) - Book recommendations from photos of your shelves.
 
 ## Gaming
+* [Dragon Realm](https://chatgpt.com/g/g-mTcflbgCG-dragon-realm-game) - Epic adventure RPG game to shape the fate of the realm.
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
+* [TTRPG Random Tables Generator](https://chatgpt.com/g/g-2O49TlCQu-ttrpg-random-tables-generator) - A tool for Game Masters to generate content for various tabletop RPG elements.
 * [Pokemon Quiz Master](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) - Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
 * [Pirate GPT Treasure Hunt Generator](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) - I create personalized pirate-themed treasure hunts.
 * [Mystic Conquest: Riddles & Ruins](https://chat.openai.com/g/g-A8hTX1Ijs-mystic-conquest-riddles-ruins) - The saga of puzzles and peril.
@@ -118,6 +120,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Turkish Carpet Salesman](https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman) - Immersive and dynamic Turkish rug salesman in a unique game.
 
 ## Education
+* [Real Estate Striver](https://chatgpt.com/g/g-Nhtfia7Ru-real-estate-striver-game) - Educate real estate investment as a RPG game where players build a real estate empire.
 * [EduBot - HomeSchool Helper](https://chat.openai.com/g/g-LTgawtUFZ) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
 * [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.
 * [ATOM library tutor](https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-tutor) - Create and analyze molecular systems in MATLAB.
@@ -194,6 +197,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Power Automate Helper](https://chat.openai.com/g/g-UsKloaH8k-power-automate-helper) - Expert in Power Automate flow development and troubleshooting.
 * [Awesome Prompt](https://chat.openai.com/g/g-mzoUJlM5z-awesome-prompt) - Prompt Development Guide to get better result.
 * [Code Sage](https://chat.openai.com/g/g-SYWHDyjjl-code-sage) - A master software engineer who follows best practices and ensures robust and elegant responses to code-related prompts.
+* [Keycloak Upgrade Assistant](https://chat.openai.com/g/g-BSXYGFVZ1-keycloak-upgrade-assistant) - An assistant that helps you upgrade your Keycloak server or cluster.
 
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
